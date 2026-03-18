@@ -1,0 +1,12 @@
+[
+	{
+		"dimension": 1,
+		"result": "allow",
+		"mod": "minecraft"
+	},
+	{
+		"dimension": 1,
+		"result": "allow",
+		"mod": "pixelmon"
+	}
+]

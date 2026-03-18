@@ -1,0 +1,17 @@
+{
+      "distribution": "uniform",
+      "generator": {
+        "type": "ore",
+        "block": {
+          "name": "oresalleasy:stone_ore",
+          "metadata": 3
+        },
+        "cluster-size": 8
+      },
+      "chunk-chance": 4,
+      "min-y": 8,
+      "max-y": 24,
+      "biome": "all",
+      "retrogen": true,
+      "dimension": 0
+    }

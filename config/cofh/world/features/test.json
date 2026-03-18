@@ -1,0 +1,18 @@
+{
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+	"type": "surface",
+          "name": "minecraft:gold_block",
+          "metadata": 3
+        },
+        "cluster-size": 8
+      },
+      "chunk-chance": 10,
+      "min-y": 0,
+      "max-y": 200,
+      "biome": "all",
+      "retrogen": true,
+      "dimension": 0,
+      "name": "novaja_ficza"
+    }

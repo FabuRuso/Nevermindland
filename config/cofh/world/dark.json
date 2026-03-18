@@ -1,0 +1,17 @@
+{
+      "distribution": "uniform",
+      "generator": {
+        "type": "ore",
+        "block": {
+          "name": "oresalleasy:dark_ore",
+          "metadata": 3
+        },
+        "cluster-size": 6
+      },
+      "chunk-chance": 1,
+      "min-y": 8,
+      "max-y": 24,
+      "biome": "all",
+      "retrogen": true,
+      "dimension": 0
+    }
